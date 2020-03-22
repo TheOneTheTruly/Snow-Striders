@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WolfRun
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: efc4d86c47c3ed6439bbaea45c99d9e5, type: 3}
+    - {fileID: 2800000, guid: 560ec53a483f1b1419e5d06bd25a4b9c, type: 3}
+    - {fileID: 2800000, guid: b76c29ae6f1edec478ba2ce1954f3582, type: 3}
+    - {fileID: 2800000, guid: 2bb8c9c883a5cb8438444ec4ee7b85eb, type: 3}
+    - {fileID: 2800000, guid: faaaedd2362da9841b37daad8e583cec, type: 3}
+    - {fileID: 2800000, guid: 1611b7ced23f82b48933a614931fc914, type: 3}
+    - {fileID: 2800000, guid: 67a2378f96237b7479ee461f493ce96f, type: 3}
+    - {fileID: 2800000, guid: 64d7a61b1283d2341b6256eccf566f8d, type: 3}
+    - {fileID: 2800000, guid: a76a9a10cb4cb63448a16c45da40d249, type: 3}
+    totalSpriteSurfaceArea: 2304
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a76a9a10cb4cb63448a16c45da40d249, type: 3}
+  - {fileID: 21300000, guid: faaaedd2362da9841b37daad8e583cec, type: 3}
+  - {fileID: 21300000, guid: 2bb8c9c883a5cb8438444ec4ee7b85eb, type: 3}
+  - {fileID: 21300000, guid: 560ec53a483f1b1419e5d06bd25a4b9c, type: 3}
+  - {fileID: 21300000, guid: 64d7a61b1283d2341b6256eccf566f8d, type: 3}
+  - {fileID: 21300000, guid: efc4d86c47c3ed6439bbaea45c99d9e5, type: 3}
+  - {fileID: 21300000, guid: b76c29ae6f1edec478ba2ce1954f3582, type: 3}
+  - {fileID: 21300000, guid: 1611b7ced23f82b48933a614931fc914, type: 3}
+  - {fileID: 21300000, guid: 67a2378f96237b7479ee461f493ce96f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Run9
+  - Run5
+  - Run4
+  - Run2
+  - Run8
+  - Run1
+  - Run3
+  - Run6
+  - Run7
+  m_Tag: WolfRun
+  m_IsVariant: 0
